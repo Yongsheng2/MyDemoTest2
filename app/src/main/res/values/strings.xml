@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyDemoTest2</string>
+    <string name="grade">Grade</string>
+    <string name="name">Name</string>
+    <string name="code">Course Code</string>
+    <string-array name="c_code">
+        <item>BAIT3123</item>
+        <item>BAIT3550</item>
+        <item>BAIT2703</item>
+    </string-array>
+    <string name="score">Score</string>
+    <string name="Check">Check</string>
+    <string name="phoneno">Contact Us</string>
+</resources>
